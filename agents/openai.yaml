@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人与企业网站建设"
+  short_description: "从内容和视觉设计到响应式页面、询盘表单与自定义域名上线，完成个人或企业网站建设"
+  default_prompt: "使用 $website-launch 帮我搭建或改进个人或企业网站，并根据我的需要完成上线。"
